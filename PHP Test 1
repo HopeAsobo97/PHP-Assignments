@@ -1,0 +1,11 @@
+<?PHP
+function Sum($a,$b)
+{
+return $a+$b;
+}
+
+$a=5;
+$b=4;
+$x=Sum($a,$b);
+echo "The sum of the two numbers is "$x;
+?>
